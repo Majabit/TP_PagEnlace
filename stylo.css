@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    background: rgb(247, 210, 131);    
+}
+
+.header-grups {
+    margin: 22px auto;
+    text-align: center;
+}
+
+.section-grups1{
+    margin-left: 50px;
+
+}
+
+.article-grups {
+    margin-left: 15px;
+    text-align: justify;
+}
